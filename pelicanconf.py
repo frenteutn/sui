@@ -2,7 +2,7 @@ from datetime import date
 
 AUTHOR = 'Frente'
 SITENAME = 'SUI'
-SITEURL = ''
+SITEURL = 'https://frenteutn.github.io/sui/'
 
 PATH = 'content'
 
